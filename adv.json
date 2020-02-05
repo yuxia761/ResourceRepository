@@ -1,0 +1,62 @@
+[
+  {
+    "detail": [
+      {
+        "img_path": "http://image5.suning.cn/uimg/b2c/newcatentries/0070136329-000000000153151705_2_800x800.jpg",
+        "type": 1,
+        "url": "gh_def5603b53ad"
+      },
+      {
+        "img_path": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2304662098,2566562874&fm=26&gp=0.jpg",
+        "type": 0,
+        "url": "https://www.baidu.com"
+      }
+    ],
+    "page": 1
+  },
+  {
+    "detail": [
+      {
+        "img_path": "http://image5.suning.cn/uimg/b2c/newcatentries/0070136329-000000000153151705_2_800x800.jpg",
+        "type": 1,
+        "url": "gh_def5603b53ad"
+      },
+      {
+        "img_path": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2304662098,2566562874&fm=26&gp=0.jpg",
+        "type": 0,
+        "url": "https://www.baidu.com"
+      }
+    ],
+    "page": 2
+  },
+  {
+    "detail": [
+      {
+        "img_path": "http://image5.suning.cn/uimg/b2c/newcatentries/0070136329-000000000153151705_2_800x800.jpg",
+        "type": 1,
+        "url": "gh_def5603b53ad"
+      },
+      {
+        "img_path": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2304662098,2566562874&fm=26&gp=0.jpg",
+        "type": 0,
+        "url": "https://www.baidu.com"
+      }
+    ],
+    "page": 3
+  },
+  {
+    "detail": [
+      {
+        "img_path": "http://image5.suning.cn/uimg/b2c/newcatentries/0070136329-000000000153151705_2_800x800.jpg",
+        "type": 1,
+        "url": "gh_def5603b53ad"
+      },
+      {
+        "img_path": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2304662098,2566562874&fm=26&gp=0.jpg",
+        "type": 0,
+        "url": "https://www.baidu.com"
+      }
+    ],
+    "page": 4
+  }
+]
